@@ -1,0 +1,54 @@
+#navbar .logo{
+  float:none;
+  text-align: center;
+}
+#navbar ul, #navbar ul li{
+  float:none;
+}
+#navbar ul li a{
+  padding:5px;
+  border:#444 dotted 1px;
+}
+#section-id{
+  height:550px;
+}
+#section-id .img-section{
+  display:none;
+}
+#section-id .written-section{
+  float:none;
+  width:100%;
+}
+.box{
+  float:none;
+  width:100%;
+}
+#about-info .right-section, #about-info .left-section{
+  float:none;
+  width:100%;
+}
+#about-info .right-section img{
+  margin-top:30px;
+}
+#about-info .left-section h1{
+  text-align:center;
+}
+/* #testimonials{
+  height:150vw;
+} */
+/* #testimonials .testimonial img{
+  float:none;
+} */
+#contact-info .box{
+  border-bottom:1px solid grey;
+}
+#contact-info .box:last-child{
+  border-bottom: none;
+}
+#showcase{
+  height:100%;
+} 
+#showcase .showcase-content{
+  padding-top:70px;
+  padding-bottom: 30px;
+}
